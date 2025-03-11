@@ -69,7 +69,7 @@ A game in which you control a delivery drone on Mars.
 
 - Dithering shader
 
-    For a more stylised experiance.
+    For a more stylised experience.
     <img src = ./gifs/finished.gif>
 
 ## How to run
